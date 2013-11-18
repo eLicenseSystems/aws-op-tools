@@ -1,0 +1,16 @@
+# AWSアクセス情報
+access_key_id: YOUR_ACCESS_KEY_ID
+secret_access_key: YOUR_SECRET_ACCESS_KEY
+
+# メール情報
+mail_notifier:
+  hostname: YOUR_HOSTNAME
+  port: YOUR_PORT
+  domain: YOUR_DOMAIN
+  username: YOUR_USERNAME
+  password: YOUR_PASSWORD
+
+  mail_from: YOUR_MAIL_ADDRESS
+  info_mail_to: YOUR_MAIL_ADDRESS
+  warn_mail_to: YOUR_MAIL_ADDRESS
+  error_mail_to: YOUR_MAIL_ADDRESS
