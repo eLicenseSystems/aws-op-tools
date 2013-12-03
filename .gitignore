@@ -1,4 +1,5 @@
 config/config.yml
 .ruby-*
+.bundle
 Gemfile.lock
-
+vendor/bundle
